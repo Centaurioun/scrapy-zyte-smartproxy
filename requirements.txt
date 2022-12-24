@@ -1,3 +1,4 @@
 scrapy>=1.4
 six
 w3lib
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
